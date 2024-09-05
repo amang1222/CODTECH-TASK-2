@@ -12,7 +12,7 @@
 
 ## OVERVIEW OF THE PROJECT
 
-### PROJECT : PASSWORD STRENGTH CHECKER
+### PROJECT : BLOCKCHAIN SECURITY AUDIT 
 
 ### OBJECTIVE
 Develop a tool to assess the strength of passwords entered by users. Implement
